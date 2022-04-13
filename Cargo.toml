@@ -1,0 +1,9 @@
+[workspace]
+members = [
+"idmr1-constructor",
+"idmr2-fun-args",
+"idmr3-builder-pattern",
+"idmr4-iterating-over-option",
+"idmr5-avoiding-allocations"
+]
+default-members = ["idmr5-avoiding-allocations"]
